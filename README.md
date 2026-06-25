@@ -10,31 +10,31 @@ I enjoy learning new technologies and continuously improving my frontend, backen
 
 ## 💻 Tech Stack
 
-- Java
-- React
-- Spring Boot
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- MySQL
-- Git
-- GitHub
+* Java
+* React
+* Spring Boot
+* HTML5
+* CSS
+* JavaScript
+* PHP
+* MySQL
+* Git
+* GitHub
 
 ---
 
 ## 🌱 Currently Learning
 
-- Full-Stack Web Development
-- REST API Development
-- Software Engineering Best Practices
+* Full-Stack Web Development
+* REST API Development
+* Software Engineering Best Practices
 
 ---
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/jayaniwijemanna
-- LinkedIn: www.linkedin.com/in/jayani-wijemanna-290574385
+* GitHub: https://github.com/jayaniwijemanna
+* LinkedIn: www.linkedin.com/in/jayani-wijemanna-290574385
 ---
 
 ⭐ Thank you for visiting my GitHub profile!
