@@ -13,7 +13,7 @@ I enjoy learning new technologies and continuously improving my frontend, backen
 * Java
 * React
 * Spring Boot
-* HTML5
+* HTML
 * CSS
 * JavaScript
 * PHP
