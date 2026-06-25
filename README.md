@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Jayani Wijemanna 👋
 
-<!--
-**jayaniwijemanna/jayaniwijemanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a Software Engineering Undergraduate who is passionate about building modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies and continuously improving my frontend, backend, and database development skills by working on practical projects.
+
+---
+
+## 💻 Tech Stack
+
+- Java
+- React
+- Spring Boot
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- MySQL
+- Git
+- GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Full-Stack Web Development
+- REST API Development
+- Software Engineering Best Practices
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/jayaniwijemanna
+- LinkedIn: www.linkedin.com/in/jayani-wijemanna-290574385
+---
+
+⭐ Thank you for visiting my GitHub profile!
