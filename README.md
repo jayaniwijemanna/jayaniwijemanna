@@ -33,8 +33,8 @@ I enjoy learning new technologies and continuously improving my frontend, backen
 
 ## 📫 Connect with Me
 
-* GitHub: https://github.com/jayaniwijemanna
-* LinkedIn: www.linkedin.com/in/jayani-wijemanna-290574385
+- GitHub: https://github.com/jayaniwijemanna
+- LinkedIn: https://www.linkedin.com/in/jayaniwijemanna
 ---
 
 ⭐ Thank you for visiting my GitHub profile!
