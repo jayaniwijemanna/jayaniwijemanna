@@ -20,6 +20,8 @@
 }
 ```
 
+<br>
+
 ---
 
 <h2 align="center">⚡ My Developer Toolkit</h2>
@@ -30,7 +32,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,php" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,js,php" alt="Languages">
 </p>
 
 </details>
@@ -43,7 +45,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Technologies">
 </p>
 
 </details>
@@ -56,7 +58,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Backend Technologies">
 </p>
 
 </details>
@@ -69,7 +71,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,java" alt="Mobile Development" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,java" alt="Mobile Development">
 </p>
 
 </details>
@@ -82,7 +84,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases">
 </p>
 
 <p align="center">
@@ -99,7 +101,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" alt="Development Tools">
 </p>
 
 </details>
@@ -111,32 +113,28 @@
 <h2 align="center">🔥 Coding Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jayaniwijemanna&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jayaniwijemanna&theme=tokyonight&hide_border=true" alt="Jayani's GitHub Streak">
 </p>
+
+<br>
 
 ---
 
 <h2 align="center">⚡ Contribution Journey</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jayaniwijemanna&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayaniwijemanna&theme=tokyo-night&hide_border=true" width="100%" alt="Jayani's Contribution Graph">
 </p>
+
+<br>
 
 ---
 
 <h2 align="center">🤝 Let's Connect</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jayaniwijemanna">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="mailto:jayaniwijemanna54@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/jayaniwijemanna"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="mailto:jayaniwijemanna54@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</div>
 
 <br>
 
