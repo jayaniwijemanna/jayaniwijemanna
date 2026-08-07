@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.png" width="100%" alt="Jayani Wijemanna GitHub Banner">
+  <img src="./github-banner-clean%20(1).png" width="100%" alt="Jayani Wijemanna GitHub Banner">
 </p>
 
 <br>
@@ -26,10 +26,11 @@
 
 <details>
 <summary><b>☕ Languages I Work With</b></summary>
+
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js" />
+  <img src="https://skillicons.dev/icons?i=java,js,php" alt="Languages" />
 </p>
 
 </details>
@@ -38,10 +39,11 @@
 
 <details>
 <summary><b>🎨 Frontend Development</b></summary>
+
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Technologies" />
 </p>
 
 </details>
@@ -50,10 +52,11 @@
 
 <details>
 <summary><b>⚙️ Backend Development</b></summary>
+
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Backend Technologies" />
 </p>
 
 </details>
@@ -62,10 +65,11 @@
 
 <details>
 <summary><b>📱 Mobile Development</b></summary>
+
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,java" alt="Mobile Development" />
 </p>
 
 </details>
@@ -74,10 +78,15 @@
 
 <details>
 <summary><b>🗄️ Data & Databases</b></summary>
+
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
+</p>
+
+<p align="center">
+  <b>Oracle Database</b>
 </p>
 
 </details>
@@ -86,36 +95,31 @@
 
 <details>
 <summary><b>🧰 Tools Behind My Code</b></summary>
+
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" alt="Development Tools" />
 </p>
 
 </details>
 
+<br>
+
 ---
 
-<h2 align="center">📊 GitHub Activity</h2>
+<h2 align="center">🔥 Coding Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayaniwijemanna&show_icons=true&hide_border=true&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaniwijemanna&layout=compact&hide_border=true&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jayaniwijemanna&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=jayaniwijemanna&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h2 align="center">🌱 Currently Growing</h2>
+<h2 align="center">⚡ Contribution Journey</h2>
 
 <p align="center">
-  React &nbsp;•&nbsp; Spring Boot &nbsp;•&nbsp; REST APIs &nbsp;•&nbsp; Software Architecture
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jayaniwijemanna&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -123,18 +127,20 @@
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/jayaniwijemanna">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
+  &nbsp;&nbsp;
 
   <a href="mailto:jayaniwijemanna54@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
 </p>
 
 <br>
+
+---
 
 <h3 align="center">💭 Code • Learn • Build • Grow</h3>
 
